@@ -55,7 +55,7 @@ li {
 }
 
 .delete-button {
-    background-color: #ff3333;
+    background-color: red;
     color: #fff;
     border: none;
     border-radius: 5px;
